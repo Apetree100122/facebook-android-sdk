@@ -1,0 +1,33 @@
+UTF-8 => Binary
+å>c«ƒ
+¡QA)±s÷3W
+ / 
+Ž¶Ì®Ë!r—ñG
+á°ð °U…±ÕàoÝ)
+ãNY×PäÒs,
+}ïÎ[>Ê~úÎ=‹÷ 
+vN\Å èl‡-æ–]
+joR+ššŠÐæXk 
+˜/ Kª²àMY­“À»ï‡dbe( 
+ÿ3sC,vë8Wgõ3uÖ»Ý 
+‹})Gƒ¨p…ßX6l(SÙˆ~¶y¨M¿Ú×
+ÏîÔ-N*7€Ãçé
+˜$t°=eá\SízÚ 
+²®Èpr\Äü•"<2ýºðï>
+!ë  ïlïðäŒæmz,ÂC„ 
+zP®Éw 
+K>€0¤ÂNB$Ù¹ 
+M“Tpeîã¾€
+I¸xâS& 	
+Ùúñ_ìˆA©=‰ÚâÆÈcÃa¯ÃÊVŸï]»[¹7d
+äTj¼X"€v,-è
+¢tèFÚZËÆömykA¥X\ÝrØ 
+©çâ†ÄÚi8Ï†¹˜§
+I†"(ßµ&®Üs$³Ûþ{ƒB  
+†“?ˆìlKm„ÃÃ(pv‰å`ŽD$=:îªãe«aÉ@´S8€Ã¤½0ö"GØyÚªžR¡ðm¾Â>5=U m
+ùkòžú«{ÃÛ;J1ÅÔ»~Ž¦•{ ŸïæÈ©8>´ŸyJ®~L¿xÞ£’ªTÿKª3¦Ù ™z×¯•–ØlÝÈž;
+\Y«ü»h¬ªïPo¢µ^ÚûÈÎk7àv˜¹ê±šÖÉPMÁH0Eê±‹kõÑ'áú
+k©Zã{œØ˜°"¹Ç£Ýf’É8•y6ï%yc¶×1 rôj4,xHÔ¹!_Æa²‡ÍfÂ  
+
+Binary => to Hex   \
+C3 A5 FA B8 F0 AA EF 31 A4 B0 A8 68 CC2 8D 83 4E b1 58 F3 C3 B7 CE BC 5F 8B 7B 98 56 D8 71 98 55 D8 71 70 F2 E2 80 94 C3 B1 8F BC 3A 1C 2B 0B 61 D8 41 85 61 57 FF 14 05 36 15 8E 1C AF E1 D0 6F C3 9D  A7 0E 8E 75 9C 39 7C D0 C3 A4 C3 92 E7 C5 01 3D F7 0E BF 0E 3A DF D8 71 5F B0 EE B0 E3 BD E2 80 B9 C3 B7 ED 27 5C EE 1C 2E 15 06 1D 46 CC F1 40 50 DB AC 3A 6E 28 09 3B BA B7 D2 AF 16 87 16 87 16 83 0E 43 0E 9A C6 BC B9 CB E5 E1 55 61 59 61 D0 4D B3 85 5B C5 01 39 87 01 85 77 87 5F C5 01 43 93 16 5A 30 A4 30 EF F3 E7 0E CE D8 75 70 E2 BE 7C 3B 5C FA C3 0E 5B 0A EF 0E 77 8A 02 E7 EF B0 A7 69 8F 8D 25 85 51 C3 8A 02 9B 0E 7E C6 14 6E DB 28 A7 87 33 97 0D BF 61 5B 79 C2 A8 9B 85 7F 87 35 87 2F 15 87 1F 87 5D 87 29 D6 CE AB 7E 28 2A CC 38 3C 3A 7C 3A 9D 61 4E E5 CE 49 D3 0A C3 DC 28 1C B8 74 37 31 4F 0E B6 7A C3 9A 83 0A CB 0A BB 0E 23 87 2B 98 70 92 C3 BC E2 80 A2 8B CC B0 EF 70 AE B0 EC 30 EB FE 87 0E AF 0A 06 0C 28 DC 3A FD 98 75 F8 76 18 74 98 B2 58 74 DB 7D 41 66 1C 14 3E 28 09 EF 54 30 AB B0 E2 7B CB FB 8A 0A B3 0B 85 49 87 05 3A 16 14 EC 98 73 38 57 3D 9B 85 1F C5 01 39 53 86 5C 3A EC 3A 3E 61 5F 71 41 56 49 C2 B8 F1 87 45 4E 6C 2A 0F CE 1C CE 1D D6 1D 8D FC 3A CC B8 68 C1 C2 A9 F7 8A 02 C3 0E 6B 0E 8B 0E 1B 0E 23 1E 1C 1E 1C 2A FC 38 3C 38 AF 56 C5 B8 C3 AF BB 85 77 6F 0A E7 7C 98 74 95 35 61 5E 58 8B 8A 0A B3 B6 14 7D 90 B6 78 75 17 0A 8B A6 1D 44 6C 39 AB 58 71 78 70 D8 76 DB 7C ED 70 70 A9 6C 5C C3 9D E5 87 31 85 53 98 74 F8 74 58 50 3C 50 14 18 70 98 73 58 51 BA D3 C6 1C 7F 14 05 06 15 CE 5C E6 15 3C 9E 28 0A 0A 2A 30 E7 F0 AD 66 C2 AE C3 9C E7 24 30 AC F0 E6 F0 EF BD E3 49 42 FE 78 A0 28 38 A0 27 3F CB 86 C3 AC D9 F9 7B 78 A0 27 B0 E0 F0 E0 E8 E1 DB 8A 02 C3 0E 97 06 2D EC 49 3D EB 0E BB 0A AB 0E 8F 2F 85 57 87 0E 27 81 85 69 4F 8E 28 2A CC 38 3C 2A 4C 2B DC 30 ED B2 22 8F 87 31 E7 0E 6B 0A AB 16 FA 96 15 0E 1D 86 DC 2B EC 38 2F B5 B7 B5 70 EE 75 E1 D9 62 DF 61 DD 61 55 FE F0 E0 FA E1 CD F7 2A E3 E1 C2 E1 CA 61 5D FE C5 BD C2 A6 E2 80 A2 F7 0C 5B 8C 3A FC 3A 6C 38 8C 2A 9C 28 FE 3E C2 B4 C5 B8 F3 E9 58 55 D3 FD 33 0A FF F1 87 3D 85 47 C5 01 33 85 55 AA 98 77 F2 F0 AA B3 C2 A6 C3 99 83 8A 12 8B D6 1C BE 15 7F 71 40 51 71 40 49 CF 0E 63 65 B0 E7 70 E2 31 6F BB C2 8D B9 66 38 55 78 77 98 57 7A 30 AB 30 AA B0 EB E8 6F C2 A2 C2 B5 BD 87 35 98 77 77 11 87 1D AF 79 D8 74 1D B2 E7 30 AE 70 EA B0 AC 71 68 70 E5 B0 E2 68 64 DC 38 19 18 45 C3 AA C2 B1 FE 28 0B 9D 78 76 B8 72 33 E1 D0 E1 DD 6B C2 A9 B5 87 47 EF 16 4F 0E 63 2E 73 0A  C2 2C 2B 9C 38 7C 2A 3C 39 DC D8 50 3C 50 13 38 71 3C 71 40 51 79 DB 0E BE 5F 38 F0 AD B0 E5 EB 1A 8F 2C 3B 4D 5A 59 8C 29 DF 12 30 E5 30 AE 61 BF 87 0D 87 0A CB 8A 02 87 0E 37 36 1C 17 02
